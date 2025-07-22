@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+
+# Node.js dependencies
+node_modules/
+
+# Editor-specific folders
+.idea/
+.vscode/
+
+# Environment variables (NEVER upload this)
+.env
